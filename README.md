@@ -9,12 +9,6 @@ The web application allows users to enter project-specific inputs and receive re
 
 ---
 
-# 🚀 Project Links
-
-* **Live Demo:** https://mlprojectp19-hdbfn8anguoftpumgrzbrl.streamlit.app/
-* **Author:** Rishu Gurjar
-
-
 ## 📌 Project Overview
 
 The Data Science Salary Prediction System is a Machine Learning project designed to predict employee salaries based on factors such as experience level, employment type, job title, remote work ratio, company location, company size, and employee residence.
