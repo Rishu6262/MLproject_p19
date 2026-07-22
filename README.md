@@ -1,4 +1,4 @@
-# 💼 Data Science Salary Prediction Using Machine Learning
+# 💼 Salary Prediction Using Machine Learning
 # 🌐 Live Demo
 
 Try the deployed application here:
