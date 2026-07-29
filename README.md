@@ -68,14 +68,23 @@ This project demonstrates how **Machine Learning Regression** can analyze histor
 
 ---
 
-# 🚀 Objectives
+# 🎯 Project Objectives
 
-* Predict employee salaries using Machine Learning.
-* Analyze factors affecting salaries.
-* Compare multiple regression algorithms.
-* Identify the best-performing model.
-* Gain insights into salary trends.
+The primary objective of this project is to develop an intelligent **Machine Learning Regression** system capable of accurately predicting employee salaries based on professional and organizational attributes. The project applies data analytics and predictive modeling techniques to support salary estimation and data-driven decision-making in Human Resource Analytics.
 
+### ⭐ Key Objectives
+
+- 💼 Predict employee salaries using Machine Learning regression algorithms.
+- 📊 Analyze the key factors influencing salary, such as experience level, job title, employment type, company size, remote work ratio, and location.
+- 🧹 Perform comprehensive data cleaning, preprocessing, and feature engineering.
+- 📈 Conduct Exploratory Data Analysis (EDA) to identify salary trends and patterns.
+- 🤖 Train and compare multiple Machine Learning regression models.
+- 📏 Evaluate model performance using MAE, MSE, RMSE, and R² Score.
+- 💾 Save the best-performing model for future predictions using Pickle.
+- 🌐 Develop an interactive Streamlit web application for real-time salary prediction.
+- 🚀 Build a deployment-ready end-to-end Machine Learning solution.
+- 💻 Strengthen practical skills in Python, Data Analytics, Machine Learning, Regression Modeling, and Model Deployment through a real-world salary prediction use case.
+  
 ---
 
 # 📊 Dataset Information
