@@ -22,14 +22,29 @@ The application enables users to enter relevant employee and job-related details
 
 ---
 
-## 📌 Project Overview
+# 📌 Project Overview
 
-The Data Science Salary Prediction System is a Machine Learning project designed to predict employee salaries based on factors such as experience level, employment type, job title, remote work ratio, company location, company size, and employee residence.
+The **Data Science Salary Prediction System** is an **End-to-End Machine Learning Regression** project designed to predict employee salaries based on professional and organizational factors such as **experience level**, **employment type**, **job title**, **remote work ratio**, **employee residence**, **company location**, and **company size**.
 
-The project uses historical salary data from Data Science, Machine Learning, Artificial Intelligence, and Analytics professionals to build predictive models that estimate salaries accurately.
+The project leverages historical salary data from professionals working in **Data Science**, **Machine Learning**, **Artificial Intelligence**, **Data Engineering**, and **Business Analytics** to develop predictive models capable of estimating salaries with high accuracy. The dataset undergoes comprehensive **data cleaning**, **preprocessing**, **feature engineering**, and **exploratory data analysis (EDA)** before training multiple regression algorithms.
 
-This project demonstrates the practical application of Machine Learning in Human Resource Analytics and Salary Forecasting.
+Several Machine Learning models are trained, evaluated, and compared using industry-standard regression metrics to identify the most accurate model. The final model is deployed through an interactive **Streamlit web application**, enabling users to enter job-related information and receive instant salary predictions.
 
+This project demonstrates practical expertise in **Python**, **Data Analytics**, **Machine Learning**, **Regression Modeling**, **Feature Engineering**, **Model Evaluation**, and **Web Deployment**, making it an excellent portfolio project for aspiring **Machine Learning Engineers**, **Data Scientists**, **Python Developers**, and **AI Engineers**.
+
+---
+
+## ✨ Key Features
+
+- 💼 Predict salaries using job and company-related information
+- 📊 Data Cleaning, Preprocessing, and Feature Engineering
+- 📈 Exploratory Data Analysis (EDA)
+- 🤖 Multiple Machine Learning Regression Models
+- 📏 Model Evaluation using MAE, MSE, RMSE, and R² Score
+- 💾 Model Serialization using Pickle
+- 🌐 Interactive Streamlit Web Application
+- ☁️ Deployment Ready
+- 🔗 Version Control with Git & GitHub
 ---
 
 # ❓ Why I Chose This Project?
