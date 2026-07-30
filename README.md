@@ -131,16 +131,49 @@ The dataset is ideal for practicing **Data Cleaning**, **Exploratory Data Analys
 
 # 🛠 Technologies Used
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-Learn
-* Joblib
-* Streamlit
+The project leverages modern **Python libraries**, **Machine Learning frameworks**, and **development tools** to build an end-to-end salary prediction system.
+
+## 💻 Technology Stack
+
+| Category | Technology | Purpose |
+|----------|------------|---------|
+| 🐍 Programming Language | Python | Core programming language for development |
+| 📊 Data Analysis | Pandas | Data loading, cleaning, manipulation, and preprocessing |
+| 🔢 Numerical Computing | NumPy | Numerical operations and array processing |
+| 📈 Data Visualization | Matplotlib | Data visualization and statistical plotting |
+| 📉 Data Visualization | Seaborn | Exploratory Data Analysis (EDA) and advanced visualizations |
+| 🤖 Machine Learning | Scikit-learn | Model training, preprocessing, and evaluation |
+| 💾 Model Serialization | Joblib | Save and load trained machine learning models |
+| 🌐 Web Framework | Streamlit | Interactive web application deployment |
+| 📝 Development Environment | Jupyter Notebook / VS Code | Model development and experimentation |
+| 🔗 Version Control | Git & GitHub | Source code management and collaboration |
 
 ---
+
+## 📚 Python Libraries Used
+
+- **Pandas** – Data cleaning, preprocessing, and manipulation
+- **NumPy** – Numerical computations and array operations
+- **Matplotlib** – Data visualization and plotting
+- **Seaborn** – Exploratory Data Analysis (EDA)
+- **Scikit-learn** – Regression models, preprocessing, and evaluation metrics
+- **Joblib** – Model serialization and deployment
+- **Streamlit** – Interactive web application for salary prediction
+
+---
+
+## 🚀 Technical Skills Demonstrated
+
+- 🐍 Python Programming
+- 📊 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- ⚙️ Feature Engineering
+- 🤖 Machine Learning Regression
+- 📏 Model Evaluation (MAE, MSE, RMSE, and R² Score)
+- 💾 Model Serialization with Joblib
+- 🌐 Streamlit Application Development
+- 📊 Predictive Analytics
+- 🔗 Git & GitHub Version Control
 
 # 📂 Project Structure
 
