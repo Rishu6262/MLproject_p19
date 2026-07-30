@@ -440,21 +440,40 @@ The predicted salaries are generated using machine learning models trained on hi
 
 # ✅ Conclusion
 
-This project demonstrates how Machine Learning can be used to predict employee salaries based on professional, organizational, and geographical factors. By comparing Linear Regression, K-Nearest Neighbors (KNN), Decision Tree, and Random Forest algorithms, the system provides accurate salary estimates and valuable insights into salary trends within the Data Science and AI industry.
+The **Data Science Salary Prediction System** successfully demonstrates the development of an **End-to-End Machine Learning Regression** solution for predicting employee salaries using historical salary data from the **Data Science**, **Machine Learning**, **Artificial Intelligence**, and **Analytics** industries.
+
+Through comprehensive **data cleaning**, **data preprocessing**, **feature engineering**, and **Exploratory Data Analysis (EDA)**, the project identifies the key factors influencing employee compensation. Multiple regression algorithms, including **Linear Regression**, **K-Nearest Neighbors (KNN)**, **Decision Tree Regressor**, and **Random Forest Regressor**, are trained and evaluated using **MAE**, **MSE**, **RMSE**, and **R² Score** to select the best-performing model.
+
+The final solution is deployed as an interactive **Streamlit web application**, allowing users to estimate salaries in real time based on professional and organizational attributes. This project demonstrates practical expertise in **Python**, **Data Analytics**, **Machine Learning**, **Regression Modeling**, **Predictive Analytics**, and **Model Deployment**, making it a strong portfolio project for aspiring **Machine Learning Engineers**, **Data Scientists**, **Python Developers**, and **AI Engineers**.
 
 ---
 
 # 👨‍💻 Author
 
-**Rishu Gurjar**
+## Rishu Gurjar
 
-Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer
+🎓 **B.Tech Computer Science Engineering Student**
 
-### Skills
+💻 **Python Developer | Data Analyst | Machine Learning Enthusiast | Deep Learning Learner | Generative AI Enthusiast**
 
-* Python
-* SQL
-* Machine Learning
-* Data Analysis
-* Streamlit
-* Scikit-Learn
+I am passionate about developing intelligent applications using **Python**, **Machine Learning**, **Deep Learning**, **Generative AI**, and **Data Analytics**. I enjoy building end-to-end machine learning solutions, predictive analytics systems, and interactive web applications that solve real-world business problems.
+
+### 🚀 Technical Skills
+
+- 🐍 Python Programming
+- 🗄️ SQL
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 📈 Exploratory Data Analysis (EDA)
+- ⚙️ Feature Engineering
+- 🌐 Streamlit
+- 🧠 Scikit-learn
+- 🔗 Git & GitHub
+
+### 📬 Connect with Me
+
+- 💻 **GitHub:** https://github.com/Rishu6262
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rishu-gurjar-58072a333/
+- 📊 **Kaggle:** https://www.kaggle.com/rishugurjar
+
+⭐ If you found this project useful, please consider giving it a **Star ⭐** on GitHub. Your support and feedback are greatly appreciated!
