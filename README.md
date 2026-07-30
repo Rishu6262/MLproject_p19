@@ -86,38 +86,46 @@ The primary objective of this project is to develop an intelligent **Machine Lea
 - 💻 Strengthen practical skills in Python, Data Analytics, Machine Learning, Regression Modeling, and Model Deployment through a real-world salary prediction use case.
   
 ---
+# 📂 Dataset Information
 
-# 📊 Dataset Information
+The project utilizes the **Data Science Salaries Dataset**, which contains salary records of professionals working in **Data Science**, **Machine Learning**, **Artificial Intelligence**, **Data Engineering**, and **Analytics**. The dataset is used to train and evaluate machine learning regression models for accurate salary prediction.
 
-### Dataset Name
+## 📊 Dataset Summary
 
-Data Science Salaries Dataset
-
-### Total Records
-
-* 105,434 Records
-
-### Total Features
-
-* 11 Features
+| Attribute | Details |
+|-----------|---------|
+| 📂 Dataset Name | Data Science Salaries Dataset |
+| 📄 Total Records | **105,434** |
+| 📋 Total Features | **11** |
+| 🎯 Target Variable | **salary_in_usd** |
+| 📚 Dataset Type | Structured Tabular Dataset |
+| 💼 Domain | Human Resource Analytics / Salary Prediction |
 
 ---
 
-## Features Description
+## 📋 Dataset Features
 
-| Feature            | Description                               |
-| ------------------ | ----------------------------------------- |
-| work_year          | Year of Employment                        |
-| experience_level   | Employee Experience Level                 |
-| employment_type    | Full-time, Part-time, Contract, Freelance |
-| job_title          | Employee Job Role                         |
-| salary             | Original Salary                           |
-| salary_currency    | Salary Currency                           |
-| salary_in_usd      | Salary Converted to USD (Target Variable) |
-| employee_residence | Employee Country                          |
-| remote_ratio       | Remote Work Percentage                    |
-| company_location   | Company Location                          |
-| company_size       | Small, Medium, Large Company              |
+| Feature | Description |
+|---------|-------------|
+| 📅 **work_year** | Year in which the salary was recorded |
+| 🎓 **experience_level** | Employee's level of professional experience |
+| 💼 **employment_type** | Type of employment (Full-time, Part-time, Contract, Freelance) |
+| 👨‍💻 **job_title** | Employee's job role or designation |
+| 💰 **salary** | Original salary in the local currency |
+| 💱 **salary_currency** | Currency in which the salary was paid |
+| 🎯 **salary_in_usd** | Salary converted to USD *(Target Variable)* |
+| 🌍 **employee_residence** | Country where the employee resides |
+| 🏠 **remote_ratio** | Percentage of remote work (0%, 50%, or 100%) |
+| 🏢 **company_location** | Country where the company is located |
+| 📈 **company_size** | Organization size (Small, Medium, or Large) |
+
+---
+
+## 🎯 Dataset Importance
+
+This dataset provides valuable insights into salary trends across the **Data Science**, **Machine Learning**, and **Artificial Intelligence** industries. It enables the development of predictive models for salary estimation while helping analyze how factors such as **experience**, **job role**, **employment type**, **company size**, **remote work**, and **location** influence employee compensation.
+
+The dataset is ideal for practicing **Data Cleaning**, **Exploratory Data Analysis (EDA)**, **Feature Engineering**, **Regression Modeling**, and **Predictive Analytics**, making it an excellent resource for real-world Machine Learning and HR Analytics projects.
 
 ---
 
